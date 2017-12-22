@@ -1,0 +1,9 @@
+name: advent
+version: 0.1.0
+
+authors:
+  - joeyrobert <joey@joeyrobert.org>
+
+crystal: 0.23.1
+
+license: MIT

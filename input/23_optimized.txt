@@ -1,0 +1,32 @@
+set b 67
+set c b
+jnz a 2
+jnz 1 5
+mul b 100
+sub b -100000
+set c b
+sub c -17000
+set f 1
+set d 2
+set g b
+mod g d
+jnz g 8
+set f 0
+jnz 1 11
+nop
+nop
+nop
+nop
+nop
+sub d -1
+sqrt g b
+sub g d
+jgz g -13
+jnz f 2
+sub h -1
+set g b
+sub g c
+jnz g 2
+jnz 1 3
+sub b -17
+jnz 1 -23
